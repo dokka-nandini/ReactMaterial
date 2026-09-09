@@ -1,5 +1,5 @@
 1. React Introduction, 7 2. JSX 8 3. Components
-   tc
+   
 4. Props
    pray
 6. State
