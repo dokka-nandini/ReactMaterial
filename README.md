@@ -64,5 +64,3 @@
 
 26. Lazy Loading
 
-
-amen pray cl 
