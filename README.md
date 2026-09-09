@@ -65,4 +65,4 @@
 26. Lazy Loading
 
 
-God is there
+amen pray cl 
