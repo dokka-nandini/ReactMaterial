@@ -1,76 +1,68 @@
-1. React Introduction
-
-
-2. JSX
-
-
-3. Components
-
-
+1. React Introduction, 7 2. JSX 8 3. Components
+   tc
 4. Props
+   pray
+6. State
 
 
-5. State
+7. Events
 
 
-6. Events
+8. Conditional Rendering
 
 
-7. Conditional Rendering
+9. Lists & Keys
 
 
-8. Lists & Keys
+10. Forms
 
 
-9. Forms
+11. Hooks
 
 
-10. Hooks
+12. useState
 
 
-11. useState
+13. useEffect
 
 
-12. useEffect
+14. useRef
 
 
-13. useRef
+15. useContext
 
 
-14. useContext
+16. Component Communication
 
 
-15. Component Communication
+17. Styling
 
 
-16. Styling
+18. React Router
 
 
-17. React Router
+19. API Integration
 
 
-18. API Integration
+20. Context API
 
 
-19. Context API
+21. Error Handling
 
 
-20. Error Handling
+22. React Project Structure
 
 
-21. React Project Structure
+23. React.memo
 
 
-22. React.memo
+24. useMemo
 
 
-23. useMemo
+25. useCallback
 
 
-24. useCallback
-
-
-25. Lazy Loading
+26. Lazy Loading
 
 
 God is there
