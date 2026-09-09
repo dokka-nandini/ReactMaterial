@@ -10,7 +10,7 @@
 
 8. Conditional Rendering
 
-
+God is there 
 9. Lists & Keys
 
 
@@ -21,19 +21,19 @@
 
 
 12. useState
-
+7
 
 13. useEffect
 
 
 14. useRef
 
-
+8
 15. useContext
 
 
 16. Component Communication
-
+don't c
 
 17. Styling
 
