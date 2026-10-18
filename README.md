@@ -1,1 +1,3 @@
-clear vallu work from adugu chudu ley da leave petu i will pray take care after clear
+7 mom crying 
+
+in bus hebbal full tension stress and full tied taking laptop 
