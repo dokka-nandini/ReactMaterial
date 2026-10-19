@@ -1,1 +1,1 @@
-eu mom ok na
+ok ley 
