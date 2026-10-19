@@ -46,5 +46,5 @@ https://www.youtube.com/live/kReE12LwHU4?si=sPJHuO2EzbpATCwt
 #
 
 React is used to build fast, interactive, and reusable user 
-interfaces, especially for web applications. It helps developers create applications using components, dynamic data with state and props, handle user events, and update the webpage efficiently without reloading the entire tc page. React is commonly used for developing single-page applications,8 potha kada thinnu paduko tc prayer Tripathi Di call cheysaru vallu resume send chey annaruany update i will tell tc8 front end role or wed developer anta ok bye ha yes I will prepare eu mom ok na tc nanna nenu unna ley bye clear padukota bye 
+interfaces, especially for web applications. It helps developers create applications using components, dynamic data with state and props, handle user events, and update the webpage efficiently without reloading the entire tc page. React is commonly used for developing single-page applications,8 potha kada thinnu paduko tc prayer Tripathi Di call cheysaru vallu resume send chey annaruany update i will tell tc8 front end role or wed developer anta ok bye ha yes I will prepare eu mom ok na tc nanna nenu unna ley bye clear padukota bye tension ga undi eu all ok na Chepu and clear 
 dashboards, e-commerce websites, social media platforms, and other modern web applications
