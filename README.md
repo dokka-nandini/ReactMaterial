@@ -1,1 +1,1 @@
-77 tc i will take care
+eu mom ok na
