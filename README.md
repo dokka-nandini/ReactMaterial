@@ -46,6 +46,6 @@ https://www.youtube.com/live/kReE12LwHU4?si=sPJHuO2EzbpATCwt
 #
 
 React is used to build fast, interactive, and reusable user 
-more c water coming more 8 tc reading kadha?
+8 ha eu tc bye gn clear 
 interfaces, especially for web applications. It helps developers create applications using components, m 8 water coming manage y don't worry nenu unna kada emi kaduley your strong you can handle what happened any problem clear dynamic data with ok kadha state and props, handle user events, and update the webpage efficiently without reloading the entire tc page. React is commonly used for developing single-page applications,
 dashboards, e-commerce websites, social media platforms, and other modern web applications.
