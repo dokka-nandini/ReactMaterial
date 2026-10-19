@@ -1,1 +1,1 @@
-Atp reached
+ok na 77
