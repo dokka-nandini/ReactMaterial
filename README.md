@@ -37,10 +37,7 @@ https://www.youtube.com/live/kReE12LwHU4?si=sPJHuO2EzbpATCwt
 
 
 
-Emo in church bye 
-ok
-
-no food for festival prasadam is there but not eating evening i will eat
+thinnu pls na kosam clear all tc pray ok na ela unnavu tc 
 
 
 #
