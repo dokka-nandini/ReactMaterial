@@ -46,5 +46,6 @@ ok
 #
 
 React is used to build fast, interactive, and reusable user 
-interfaces, especially for web applications. It helps developers create applications using components, dynamic data with state and props, handle user events, and update the webpage efficiently without reloading the entire tc page. React is commonly used for developing single-page applications,nee exercise bag and naa blackbag rat korikesay mottam holes paddayi
+interfaces, especially for web applications. It helps developers create applications using components, dynamic data with state and props, handle user events, and update the webpage efficiently without reloading the entire tc page. React is commonly used for developing single-page application.
+tirupathi interview when
 dashboards, e-commerce websites, social media platforms, and other modern web applications
